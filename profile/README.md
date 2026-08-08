@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="URL_DO_BANNER_AQUI" width="100%">
+<img src="https://raw.githubusercontent.com/taosnetwork/.github/main/profile/banner.png" width="100%">
 
 </div>
 
