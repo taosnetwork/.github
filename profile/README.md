@@ -12,7 +12,7 @@ Cansamos de ver comunidades de roleplay travadas em ferramentas genéricas e ser
 
 ## Nossas criações
 
-### 🎮 [Nova Capital Roleplay](https://taosnetwork.com.br)
+### 🎮 [Nova Capital Roleplay](https://novacapital.gg/)
 
 Nossa criação principal: um servidor de Multi Theft Auto construído com sistemas próprios de economia, eventos e monitoramento, sem plugins genéricos remendados.
 
